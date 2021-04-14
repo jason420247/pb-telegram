@@ -27,7 +27,7 @@
     "express": "^4.13.4",
     "node-telegram-bot-api": "^0.15.0",
     "pb-node": "^2.0.1",
-    "redis": "^2.2.5",
+    "redis": "^3.1.1",
     "request": "^2.65.0"
   },
   "devDependencies": {
