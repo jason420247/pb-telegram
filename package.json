@@ -31,7 +31,7 @@
     "request": "^2.65.0"
   },
   "devDependencies": {
-    "dotenv": "^1.2.0"
+    "dotenv": "^9.0.2"
   },
   "engines": {
     "node": ">=4.0.0"
